@@ -6,5 +6,7 @@ module Types
     def test_field
       "Hello World"
     end
+
+    field :createUser, mutation: Mutations::CreateUser # 追記
   end
 end
