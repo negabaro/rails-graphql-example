@@ -55,3 +55,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'graphql', '= 1.11.0'
 gem 'graphql-batch', '0.4.2'
 gem 'graphiql-rails', group: :development
+gem 'rack-cors', '~> 1.0'
